@@ -44,9 +44,13 @@ Crear un array que contenga 5 palabras y recorrer dicho array utilizando un bucl
 Al array anterior convertir la primera letra de cada palabra en mayúscula y mostrar una alerta por cada palabra modificada.
 Crear una array vacío y con un bucle for de 10 repeticiones. Llenar el array con el número de la repetición, es decir que al final de la ejecución del bucle for debería haber 10 elementos dentro del array, desde el número 0 hasta al número 9. Mostrar por la consola del navegador el array final (utilizar console.log).
 
+Comentarios: todo bien, sin problema
+
 
 6. Funciones
 
 Crear una función suma que reciba dos valores numéricos y retorne el resultado. Ejecutar la función y guardar el resultado en una variable, mostrando el valor de dicha variable en la consola del navegador.
 A la función suma anterior, agregarle una validación para controlar si alguno de los parámetros no es un número, mostrar una alerta aclarando que uno de los parámetros tiene error y retornar el valor NaN como resultado.
 A la función suma del ejercicio 6b) agregarle una llamada que valide que los números sean enteros. En caso que haya decimales mostrar un alerta con el error y retorna el número convertido a entero (redondeado).
+
+Comentarios: sin muchas complicaciones, tuve que buscar en Google como se declaran las funciones en JS, la validación de los caracteres (segundo punto) y funciones para validar si el nro es entero o no (tercer punto)

@@ -10,6 +10,8 @@
 
 */
 
+/*
+
 var aleatorio = Math.random();
 console.log("El nro aleatorio que salio fue: " + aleatorio);
 
@@ -20,9 +22,10 @@ if (aleatorio >= 0.5) {
 }
 
 /* ----------------------------- */
+/*
 
 var Age = Math.random() * 100;
-console.log(Age);
+console.log("La edad es: " + Age);
 
 if (Age < 18) {
     alert("Menor");
